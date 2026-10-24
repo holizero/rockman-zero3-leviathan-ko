@@ -1,0 +1,8 @@
+*.gba
+*.sav
+*.sgm
+*.ss*
+*.exe
+*.dll
+.local/
+node_modules/
