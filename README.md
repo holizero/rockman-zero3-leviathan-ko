@@ -8,9 +8,16 @@
 
 ## 다운로드
 
-**[정식 v1.0.0 배포 ZIP 다운로드](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/download/v1.0.0/leviathan-ko-v1.0.0.zip)** · [릴리스 안내](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/tag/v1.0.0) · [ZIP 체크섬](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/download/v1.0.0/leviathan-ko-v1.0.0.zip.sha256)
+**[정식 v1.0.1 배포 ZIP 다운로드](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/download/v1.0.1/leviathan-ko-v1.0.1.zip)** · [릴리스 안내](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/tag/v1.0.1) · [ZIP 체크섬](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/download/v1.0.1/leviathan-ko-v1.0.1.zip.sha256)
 
-첨부 파일에서 **`leviathan-ko-v1.0.0.zip`** 선택. GitHub 자동 생성 `Source code (zip)`은 패치 배포 파일이 아님.
+첨부 파일에서 **`leviathan-ko-v1.0.1.zip`** 선택. GitHub 자동 생성 `Source code (zip)`은 패치 배포 파일이 아님.
+
+## 업데이트 이력
+
+- **v1.0.1 · 2026-10-25:** 방어 중인 적을 창으로 공격할 때 반복 타격 정지로 느려지는 버그를 수정했다.
+- **v1.0.0 · 2026-10-25:** 레비아탄 한글 모드 첫 정식 배포.
+
+1.0.1 배포 도구에서 지원하는 일본판 원본을 선택해 새로 패치한다. 기존 게임 내 저장은 백업 후 새 롬에서 사용하며 이전 버전의 즉시 저장은 사용하지 않는다.
 
 ## 설치·복원
 
@@ -36,7 +43,7 @@
 
 ## 블로그 가이드
 
-모드 소개·설치 방법·기술 GIF 페이지 공개 준비 중.
+[한국어 가이드](https://mntkim.com/rockman-zero-3-leviathan-korean-mod-v1-0-0/) · [English guide](https://mntkim.com/en/rockman-zero-3-leviathan-korean-mod-v1-0-0/)
 
 ## 이용 전 확인
 

@@ -8,9 +8,16 @@ A fan mod that replaces Zero with playable Leviathan in Rockman Zero 3. It inclu
 
 ## Download
 
-**[Download v1.0.0 patch package](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/download/v1.0.0/leviathan-ko-v1.0.0.zip)** · [Release notes](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/tag/v1.0.0) · [ZIP checksum](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/download/v1.0.0/leviathan-ko-v1.0.0.zip.sha256)
+**[Download v1.0.1 patch package](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/download/v1.0.1/leviathan-ko-v1.0.1.zip)** · [Release notes](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/tag/v1.0.1) · [ZIP checksum](https://github.com/holizero/rockman-zero3-leviathan-ko/releases/download/v1.0.1/leviathan-ko-v1.0.1.zip.sha256)
 
-Choose **`leviathan-ko-v1.0.0.zip`**, rather than GitHub's automatically generated `Source code (zip)`.
+Choose **`leviathan-ko-v1.0.1.zip`**, rather than GitHub's automatically generated `Source code (zip)`.
+
+## Version history
+
+- **v1.0.1 · 2026-10-25:** Fixed repeated hitstop that caused slowdown when spear attacks hit guarding enemies.
+- **v1.0.0 · 2026-10-25:** Initial stable release.
+
+Patch the supported Japanese original with the v1.0.1 package. Back up your in-game save and restart the new ROM; do not load an older save state.
 
 ## Installation and restoration
 
@@ -36,7 +43,7 @@ Korean, North American, development, and already modified ROMs are unsupported. 
 
 ## Blog guide
 
-The introduction, installation guide, and gameplay GIF page is being prepared for publication.
+[한국어 가이드](https://mntkim.com/rockman-zero-3-leviathan-korean-mod-v1-0-0/) · [English guide](https://mntkim.com/en/rockman-zero-3-leviathan-korean-mod-v1-0-0/)
 
 ## Notes
 
